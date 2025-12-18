@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zhaniya 👋</h1>
-<h3 align="center">Manual QA Tester • Voice Bots / IVR • Almaty</h3>
+<h3 align="center">Manual QA Tester • Almaty</h3>
 
 <p align="center">
   <a href="mailto:aimurzinazhh@gmail.com"><img src="https://img.shields.io/badge/Email-aimurzinazhh%40gmail.com-informational?style=flat&logo=gmail&logoColor=white" /></a>
