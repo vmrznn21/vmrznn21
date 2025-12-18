@@ -40,8 +40,8 @@
 
 ---
 
-## 📌 Portfolio
-
+## 📌 CV
+- 📄 **CV (view):** [Open CV](./cv.pdf)
 ---
 
 
