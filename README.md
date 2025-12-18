@@ -48,13 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vmrznn21&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmrznn21&layout=compact" />
-</p>
-
----
 
 ## 📫 Contact
 - Email: **aimurzinazhh@gmail.com**
