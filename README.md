@@ -41,10 +41,6 @@
 ---
 
 ## 📌 Portfolio
-- **QA Portfolio repository:** `qa-portfolio`
-  - checklists / test-cases / bug-reports / api-postman / sql
-
-> Tip: Pin `qa-portfolio` to your profile (Customize your pins).
 
 ---
 
